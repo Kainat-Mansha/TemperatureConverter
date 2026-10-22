@@ -14,4 +14,4 @@ Kelvin= celsius+273
 
 # Show the result
 print("Fahrenheit:", fahrenheit)
-print("Kelvin:", Kelvin)
+print("Kelvin:",celsius + 273.15 )
